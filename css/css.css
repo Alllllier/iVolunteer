@@ -1,0 +1,20 @@
+#poster_default { background:url(/static/banners/1.jpg) no-repeat center center; }
+#poster_default .content { left:568px;width:352px;top:110px;color:#FFF;text-align:center;text-shadow:1px 1px 3px rgba(0,0,0,0.5); }
+#poster_default .content .h { margin:20px 0;font-size:16px; }
+#poster_default .content a, #poster_default .content a:visited, #poster_default .content a:active { color:#C0DCF3; }
+#poster_default .content a:hover { color:#FFF; }
+
+#poster_christmas { background:rgb(187,0,7) url(/static/banners/christmas.jpg) no-repeat center center; }
+#poster_christmas .content { left:670px;width:250px;top:150px;color:#FFF;text-align:center;text-shadow:1px 1px 3px rgba(0,0,0,0.5); }
+#poster_christmas .content a, #poster_christmas .content a:visited, #poster_christmas .content a:active { color:#E7AEAB; }
+#poster_christmas .content a:hover { color:#FFF; }
+#poster_christmas .content .h { margin:20px 0;font-size:16px; }
+
+#poster_2013 { background:url(/static/banners/2013.jpg) no-repeat center center; }
+#poster_2013 .content { left:520px;top:308px; }
+#poster_2013 .content a, #poster_christmas .content a:visited, #poster_christmas .content a:active { color:#AAA; }
+#poster_2013 .content a:hover { color:#444; }
+
+#poster_open { background:url(/static/banners/open.jpg) no-repeat center center; }
+#poster_ops { background:url(/static/banners/ops.jpg) no-repeat center center; }
+#poster_ny { background:url(/static/banners/newyear.jpg) no-repeat center center; }
